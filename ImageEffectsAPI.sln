@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEffectsAPI", "ImageEffectsAPI\ImageEffectsAPI.csproj", "{F86EB54F-7598-4CBD-9CC5-7C9CF97956AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86EB54F-7598-4CBD-9CC5-7C9CF97956AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86EB54F-7598-4CBD-9CC5-7C9CF97956AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86EB54F-7598-4CBD-9CC5-7C9CF97956AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86EB54F-7598-4CBD-9CC5-7C9CF97956AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D7F105-8B0A-4E48-B689-EC8F3AC4FC4C}
+	EndGlobalSection
+EndGlobal
